@@ -8,12 +8,12 @@
 ## 🛠 Tech Stack
 - HTML
 - CSS
-- JavaScript
-- Git
+- JavaScript with - D.S.A.
 - C++
+- C#
 - Java
 - Python
-- C#
+
 
 ## 🌐 My Projects
 - Rock Paper Scissors Game → https://urmit-game.netlify.app
