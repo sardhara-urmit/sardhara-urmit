@@ -41,20 +41,16 @@ https://gt-kolithad.netlify.app
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sardhara-urmit\&show_icons=true\&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sardhara-urmit&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
 ---
 
 ## 💻 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sardhara-urmit\&layout=compact\&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sardhara-urmit&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=sardhara-urmit\&theme=tokyonight)
-
----
-
-⭐ Always learning and building new projects in Web Development.
+![GitHub Streak](https://streak-stats.demolab.com?user=sardhara-urmit&theme=tokyonight)
