@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Urmit
 
+![Profile Views](https://komarev.com/ghpvc/?username=sardhara-urmit\&label=Profile%20views\&color=0e75b6\&style=flat)
+
 💻 BCA Student
 🚀 Learning Full Stack Development
 🌐 Projects deployed on Netlify
@@ -37,20 +39,29 @@ https://decode-king.netlify.app
 🏫 GT Kolithad Website
 https://gt-kolithad.netlify.app
 
----
+📖 B.C.A. Sem-3 Old Paper
+https://bca-sem-3-paper.netlify.app
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sardhara-urmit&show_icons=true&theme=tokyonight&cache_seconds=1800)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sardhara-urmit\&show_icons=true)
 
 ---
 
 ## 💻 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sardhara-urmit&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sardhara-urmit\&layout=compact)
 
 ---
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=sardhara-urmit&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=sardhara-urmit)
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/sardhara-urmit/sardhara-urmit/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+⭐ Always learning and building new projects in Web Development.
