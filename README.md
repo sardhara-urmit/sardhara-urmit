@@ -44,19 +44,18 @@ https://bca-sem-3-paper.netlify.app
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sardhara-urmit\&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sardhara-urmit&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 💻 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sardhara-urmit\&layout=compact)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sardhara-urmit&layout=compact&theme=tokyonight)
 ---
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=sardhara-urmit)
+![GitHub Streak](https://streak-stats.demolab.com?user=sardhara-urmit&theme=tokyonight)
 
 ## 🐍 Contribution Snake
 
