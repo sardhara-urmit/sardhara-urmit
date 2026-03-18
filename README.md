@@ -14,6 +14,7 @@
 * HTML
 * CSS
 * JavaScript (Learning DSA)
+* React 
 * C++
 * C#
 * Java
